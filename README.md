@@ -7,6 +7,10 @@
 - [HTML](https://html.com/).
 - [CSS](https://www.css3.com/).
 
+### Usage:
+- Download or clone the repo
+- Set your OpenAI account, Copy and Paste your API Key in `app.js`.
+- After that open the `index.html` in any browser and start using it.
 
 #### Happy Hacking
 #### Made with ❤️ by Naveen Joy (naveenjoy300@gmail.com)
