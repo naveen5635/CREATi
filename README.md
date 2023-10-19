@@ -12,5 +12,7 @@
 - Set your OpenAI account, Copy and Paste your API Key in `app.js`.
 - After that open the `index.html` in any browser and start using it.
 
+### Demo: https://naveen5635.github.io/CREATi/
+
 #### Happy Hacking
 #### Made with ❤️ by Naveen Joy (naveenjoy300@gmail.com)
